@@ -1,23 +1,37 @@
-<h1 align="center">Hi 👋, I'm Md Irfan</h1>
-<h3 align="center">A passionate java backend developer from India</h3>
-<img align = "right" src="https://rishavanand.github.io/static/images/greetings.gif" alt="coding" width="400">
+<h1 align="center"> Hello, I am Md Irfan" 👋</h1>
+<h3 align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</h3>
 
 
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Md Irfan!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan9955&label=Profile%20views&color=0e75b6&style=flat" alt="irfan9955" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+                                                       
+- 🔭 I’m currently working on *MySkill😄*
+- 🌱 I’m currently learning *Masai School (Backend Developer)*
+- 💬 Ask me about *Java*
+- 👨‍💻 All of my projects are available at [My Portfolio](https://irfan9955.github.io/)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WshaDJyQ3CjfCGCBbiKBHSJ85tHGwdCs/view)
+- 📫 How to reach me: ...*mdirfan22319955@gmail.com*
+- 😄 Pronouns: ...@Irfan
+- ⚡ Fun fact: ...Always smile😄 in tough situation
 
-<h3 align="left">Connect with me:</h3>   <a href="mdirfan22319955@gmail.com">mdirfan22319955@gmail.com</a>
-<p align="left">
-<a href="https://www.leetcode.com/irfan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irfan01" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-irfan-0bab9b236/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=irfan9955&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=irfan9955&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan9955&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan9955&show_icons=true&locale=en&layout=compact" alt="irfan9955" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=irfan9955&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan9955&show_icons=true&locale=en" alt="irfan9955" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan9955&" alt="irfan9955" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
